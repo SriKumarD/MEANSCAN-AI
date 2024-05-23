@@ -1,0 +1,8 @@
+python-dotenv
+streamlit
+Pillow
+google-generativeai
+openai
+re
+json
+pandas
